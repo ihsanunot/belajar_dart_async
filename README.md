@@ -3,8 +3,9 @@
 **Future** sama seperti async di javascript, future adalah hasil dari async computation.
 
 Future adalah sebuah *class* yang menginisiasi sebuah proses yang akan dijalankan secara *asynchronous*. 
-
 Future akan mengembalikan sebuah nilai ketika prosesnya selesai.
+
+### Silakan Check Branch nya untuk bahan pembelajaran
 
 Return value yang value nya ada yang nanti async computation nya selesai.
 
